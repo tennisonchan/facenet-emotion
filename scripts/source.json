@@ -1,0 +1,20 @@
+{
+  "files": [
+    {
+      "filename": "20160514-234418",
+      "url":
+        "https://docs.google.com/uc?export=download&confirm=LmKK&id=0B5MzpY9kBtDVRUJzYWhsS21tYzQ",
+      "destination": "./modules",
+      "type": "module",
+      "extract": true
+    },
+    {
+      "filename": "fer2013",
+      "url":
+        "https://docs.google.com/uc?export=download&confirm=LmKK&id=0B5MzpY9kBtDVRUJzYWhsS21tYzQ",
+      "destination": "./datasets",
+      "type": "dataset",
+      "extract": true
+    }
+  ]
+}

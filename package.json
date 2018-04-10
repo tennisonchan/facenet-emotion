@@ -1,0 +1,14 @@
+{
+  "name": "facenet-emotion",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tennisonchan/facenet-emotion.git",
+  "author": "tingyau.cty <tingyau.cty@alibaba-inc.com>",
+  "license": "MIT",
+  "scripts": {
+    "download": "node scripts/download.js"
+  },
+  "devDependencies": {
+    "download": "^6.2.5"
+  }
+}
